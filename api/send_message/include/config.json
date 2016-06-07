@@ -1,0 +1,8 @@
+{
+	"db":{
+		"username":"qmaster",
+		"password":"",
+		"db":"q",
+		"host":"localhost"
+	}
+}

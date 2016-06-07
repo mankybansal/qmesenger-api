@@ -1,0 +1,15 @@
+{
+	"db":{
+		"username":"qmaster",
+		"password":"",
+		"db":"q",
+		"host":"localhost"
+	},
+	"mail":{
+		"username":"postman@iecse.xyz",
+		"password":"posterman",
+		"smtp":"smtp.zoho.com",
+		"port":465,
+		"encryption":"ssl"
+	}
+}
